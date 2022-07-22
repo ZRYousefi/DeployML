@@ -1,2 +1,2 @@
 # DeployML
-Deploy ML project using Django 
+Deploy ML project in Django 
